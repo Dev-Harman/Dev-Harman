@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harman</h1>
+<h1 align="center">Hi 👋, I'm Harman Singh</h1>
 <h3 align="center">Crafting Web Applications with PHP, Laravel, MySQL & Frontend Technologies</h3>
 
 - 🌱 I’m currently learning **PHP, Laravel**
